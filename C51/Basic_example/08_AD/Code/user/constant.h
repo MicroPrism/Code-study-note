@@ -1,0 +1,1 @@
+extern uchar code table[];
