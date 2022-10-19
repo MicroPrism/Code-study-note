@@ -5,7 +5,7 @@
 
 1. ### Typora与Github使用
 
-   Github=开源服务器=白嫖  √    [简单教程点击此处查看](https://github.com/MicroPrism/All-image/blob/main/Typora using/Tortisgit操作指南.md#typora使用指南)
+   Github=开源服务器=白嫖  √    [Typora与Tortisgit操作指南](https://github.com/MicroPrism/Code-study-note/blob/main/Typora_using/Tortisgit操作指南.md)
 
 2. ### C语言
 
