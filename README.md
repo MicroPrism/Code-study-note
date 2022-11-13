@@ -23,11 +23,11 @@
 
 4. ### **C++(22.11)**
 
-   **参照书目：**[C++ primer plus中文版](链接：https://pan.baidu.com/s/1k-v0jM25J5P-xL3J8VxSpQ?pwd=Murs)  提取码：`Murs`
+   **参照书目：**[C++ primer plus中文版](链接：https://pan.baidu.com/s/1k-v0jM25J5P-xL3J8VxSpQ?pwd=Murs) 提取码：`Murs`
 
    **参考视频：**[C++ Primer Plus(第六版)教程  点击查看](https://www.bilibili.com/video/BV1Yv411t7qe/?spm_id_from=333.999.0.0&vd_source=5465b0f4790ebae45362caa6519f3b79) 视频只有前10章
 
-   **所用环境：**[VM&Ubuntu](链接：https://pan.baidu.com/s/1bFLhafT10C-Ekk546MxwFQ?pwd=Murs ) 提取码：`Murs` **虚拟机配置见Linux笔记第0章**
+   **所用环境：**[VM&Ubuntu](链接：https://pan.baidu.com/s/1bFLhafT10C-Ekk546MxwFQ?pwd=Murs )提取码：`Murs` **虚拟机配置见Linux笔记第0章**
 
    C++部分正在学习中~~,所学笔记放置在C++文件夹内，课后习题在pratice文件夹内
 
@@ -37,7 +37,7 @@
 
    Vmware为虚拟机安装平台，Ubuntu为Linux系统，~~毕竟不是谁都有多余的电脑来搞Linux的~~
 
-   网盘链接：[VM&Ubuntu](链接：https://pan.baidu.com/s/1bFLhafT10C-Ekk546MxwFQ?pwd=Murs ) 提取码：`Murs`
+   网盘链接：[VM&Ubuntu](链接：https://pan.baidu.com/s/1bFLhafT10C-Ekk546MxwFQ?pwd=Murs )提取码：`Murs`
 
 2. ### Typora
 
