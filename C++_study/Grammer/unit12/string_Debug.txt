@@ -1,0 +1,25 @@
+file: string.h/string.cpp/sayings1.cpp
+bug: 
+#1 function redefination:
+	the function of operator >> multile definitions
+	
+ex:	note: ‘std::ostream& operator<<(std::ostream&, const String&)’ previously defined here
+   	27 | std::ostream & operator<<(std::ostream & os,const String & st)
+
+	
+#2 formal parameter usage error:
+	using parameter error in function from const char * to const String & ;
+	
+ex:
+	string.cpp:96:18: error: request for member ‘len’ in ‘st’, which is of non-class type ‘const char*’
+ 	96 |         len = st.len;
+
+	
+#3 Variable, operator writing error
+
+ex:	 while(is &7 is.get()!='\n')
+      |               ~~ ^~
+      |               |   |
+      |               |   int
+      |               std::istream {aka std::basic_istream<char>}
+

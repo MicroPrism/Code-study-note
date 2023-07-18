@@ -1,0 +1,17 @@
+#include<iostream>
+
+using namespace std;
+
+int main(void)
+{
+	double *p3 = new double [3];
+	p3[0] = 0.2;
+	p3[1] = 0.5;
+	p3[2] = 0.8;
+	cout<<"P3[0] is : "<<p3[0]<<endl;
+	p3 = p3+1;
+	cout<<"p3 = p3 +1,P3[0] is : "<<p3[0]<<endl;
+	p3 = p3 -1;
+	delete [] p3;
+	return 0;
+}

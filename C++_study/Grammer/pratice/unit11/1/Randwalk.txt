@@ -1,0 +1,28 @@
+A single step is 20
+The length with Destination is 100
+1: (x,y) = -9.74323,-17.4662)
+2: (x,y) = -13.6995,2.13855)
+3: (x,y) = -29.4534,-10.1827)
+4: (x,y) = -46.7888,-0.208467)
+5: (x,y) = -28.2193,-7.63655)
+6: (x,y) = -47.0992,-1.0373)
+7: (x,y) = -66.5311,3.69593)
+8: (x,y) = -63.446,-16.0647)
+9: (x,y) = -73.8014,-33.1751)
+10: (x,y) = -70.7164,-52.9357)
+11: (x,y) = -90.7133,-52.5823)
+After 11 steps,following location:
+(x,y) = (-90.7133,-52.5823)
+ or
+(m,a) = (104.851,-149.901)
+average outward distance per step = 9.53194
+A single step is 22
+The length with Destination is 33
+1: (x,y) = -5.49052,21.3039)
+2: (x,y) = -26.9961,16.666)
+3: (x,y) = -48.8025,13.7536)
+After 3 steps,following location:
+(x,y) = (-48.8025,13.7536)
+ or
+(m,a) = (50.7035,164.261)
+average outward distance per step = 16.9012

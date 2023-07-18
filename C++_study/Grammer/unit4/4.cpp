@@ -3,13 +3,14 @@
 int main(void)
 {
 	using namespace std;
-	const int SIZE = 20;
-	char name[SIZE],dessert[SIZE];
-	cout<<"what's your name :";
-	cin.get(name,SIZE).get();
-	cout<<"what's your favorite dessert :";
-	cin.get(dessert,SIZE);
-	cout<<endl;
-	cout<<"ok,i have some "<<dessert<<" for you,"<<name<<"."<<endl;
+	const int SIZE = 80;
+	int year;
+	char built[SIZE];
+	cout<<"what's your house built :";
+	cin>>year;
+	cout<<"what's your favorite address";
+	cin.getline(built,80);
+	cout<<"Year built : "<<year<<endl;
+	cout<<"Address : "<<built<<"."<<endl;
 	return 0;
 }
